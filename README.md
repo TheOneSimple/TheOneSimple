@@ -28,7 +28,7 @@ TheOneSimple@github:~$ ./welcome.sh
 TheOneSimple@github
 ```
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TheOneSimple&show_icons=true&theme=radical)
-
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneSimple&layout=compact&theme=radical)
 
 <p align="left">
