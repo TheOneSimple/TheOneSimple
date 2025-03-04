@@ -1,10 +1,10 @@
-# Hi there, I'm Lucas Diniz 🔥  
+# Hi there, I'm **TheOneSimple** 🔥  
 
 ## 🎵 Recent Tracks  
-- 🎶 **Tennessee Whiskey** - Chris Stapleton  
-- 🎶 **Nobody Else** - Bridges To Nowhere  
-- 🎶 **Babymetal - Headbanggeeeerrr!!!!!**  
-- 🎶 **How Much I Love You, Baby** - 03  
+🎶 **Tennessee Whiskey** - Chris Stapleton *(14 Jan 6:49pm)*  
+🎶 **Nobody Else** - Bridges To Nowhere *(14 Jan 6:44pm)*  
+🎶 **Babymetal - Headbanggeeeerrr!!!!!* *(14 Jan 6:42pm)*  
+🎶 **How Much I Love You, Baby** - 03 *(14 Jan 6:35pm)*  
 
 ## ❤️ Waifus  
 <p align="center">
@@ -31,18 +31,39 @@
 ❤️ **Romance** | 🎭 **Drama** | 🎒 **School** | 🔀 **Love Polygon**  
 ![Toradora](toradora.jpg)  
 
+---
+
 ## 💻 Coding Stats  
-**Top Languages:**  
+### **🖥️ 17 Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-67.25%25-blue)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-17.60%25-yellow)  
 ![Python](https://img.shields.io/badge/Python-8.44%25-green)  
 ![CSS](https://img.shields.io/badge/CSS-4.51%25-purple)  
 
-📊 **Commit Stats:**  
-- 🚀 **Total Commits:** 3757  
-- 🛠️ **Total Files Changed:** 2303  
-- 🔥 **Largest Commit:** 49050 changes  
+---
+
+## 📊 Code Habits  
+⏰ **Commit activity per hour:**  
+
+📅 **Commit activity per day of the week:**  
+**Sun:** 17  
+**Mon:** 22  
+**Tue:** 7  
+**Wed:** 6  
+**Thu:** 9  
+**Fri:** 6  
+**Sat:** 1  
+
+📌 **Most Used Language This Week:**  
+- 🔵 **TypeScript** (39.4%)  
+- 📜 **JSON** (25.0%)  
+- 🔒 **Lock** (17.5%)  
+- ⚙ **SVG** (9.1%)  
+- 🎨 **CSS** (4.8%)  
 
 ---
 
-💡 *Generated with [WeebProfile](https://github.com/LucasHenriqueDiniz/WeebProfile)*  
+### 📊 **Commit Statistics**  
+🔄 **Total Commits:** `3757`  
+🛠 **Total Files Changed:** `2303`  
+🔥 **Largest Commit:** `49050` changes  
