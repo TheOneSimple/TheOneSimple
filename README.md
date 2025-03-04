@@ -62,7 +62,7 @@ TheOneSimple@github
 
 
 ```console
-TheOneSimple@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+TheOneSimple@github:~$ sudo chmod +x /usr/local/bin/catchbugs
 ```
 
 ```
