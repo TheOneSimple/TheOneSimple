@@ -12,7 +12,6 @@ A trabalhar na minha PAP...
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Appwrite](https://skillicons.dev/icons?i=appwrite)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
