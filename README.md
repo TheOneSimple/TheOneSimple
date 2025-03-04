@@ -31,10 +31,7 @@ TheOneSimple@github
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOneSimple&layout=compact&theme=radical)
 
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://i.pinimg.com/originals/2b/c6/39/2bc6397beb6d6f8171e6924cfc0653c8.gif" alt="Gif" style="vertical-align: top;" />
-</p>
+
 
 ```console
 TheOneSimple@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
