@@ -24,7 +24,7 @@ TheOneSimple@github
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://i.pinimg.com/originals/2b/c6/39/2bc6397beb6d6f8171e6924cfc0653c8.gif" alt="Gif" width="25" height="20" />
+  <img src="https://i.pinimg.com/originals/2b/c6/39/2bc6397beb6d6f8171e6924cfc0653c8.gif" alt="Gif" width="150" />
 </p>
 
 ```console
