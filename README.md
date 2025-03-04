@@ -22,7 +22,7 @@ TheOneSimple@github:~$ ./welcome.sh
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ 
 ```
 
-<img align="left" src="https://i.pinimg.com/originals/0f/a1/74/0fa174de8db2e14487d3baea36a06662.gif" alt="sim" width="320" /> 
+<img align="left" src="https://i.pinimg.com/474x/80/d7/58/80d7586c842b53f343f00991178110a7.jpg" alt="sim" width="320" />
 
 ```
 TheOneSimple@github
